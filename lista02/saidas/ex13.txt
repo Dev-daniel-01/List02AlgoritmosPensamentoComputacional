@@ -1,0 +1,14 @@
+/*
+ * Aluno: Daniel Ribeiro da Costa
+ * Exercicio: 13
+ * Descricao: Procura um numero-chave em um array de 10 numeros
+ * Data: 27/10/2026
+ */
+
+Entrada utilizada:
+5 8 12 3 7 9 21 4 15 6
+21
+
+Saida:
+Digite 10 numeros:
+Numero-chave: Chave 21 encontrada no indice 6

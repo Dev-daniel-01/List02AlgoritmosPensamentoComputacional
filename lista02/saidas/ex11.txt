@@ -1,0 +1,18 @@
+/*
+ * Aluno: Daniel Ribeiro da Costa
+ * Exercicio: 11
+ * Descricao: Preenche um array de 10 posicoes com numeros aleatorios (rand)
+ * Data: 27/10/2026
+ */
+
+Saida:
+numeros[0] = 8
+numeros[1] = 0
+numeros[2] = 82
+numeros[3] = 18
+numeros[4] = 51
+numeros[5] = 7
+numeros[6] = 19
+numeros[7] = 30
+numeros[8] = 28
+numeros[9] = 55

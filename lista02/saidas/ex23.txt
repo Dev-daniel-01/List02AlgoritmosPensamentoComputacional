@@ -1,0 +1,16 @@
+/*
+ * Aluno: Daniel Ribeiro da Costa
+ * Exercicio: 23
+ * Descricao: Pede 5 nomes ao usuario e grava em nomes.txt, um por linha
+ * Data: 03/11/2026
+ */
+
+Entrada utilizada:
+Ana
+Carlos
+Beatriz
+Joao
+Fernanda
+
+Saida:
+Nome 1: Nome 2: Nome 3: Nome 4: Nome 5: Nomes gravados em nomes.txt

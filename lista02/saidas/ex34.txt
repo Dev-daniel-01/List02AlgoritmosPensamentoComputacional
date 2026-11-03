@@ -1,0 +1,12 @@
+/*
+ * Aluno: Daniel Ribeiro da Costa
+ * Exercicio: 34
+ * Descricao: Funcao fatorial implementada de forma recursiva
+ * Data: 10/11/2026
+ */
+
+Entrada utilizada:
+6
+
+Saida:
+Digite N: 6! = 720

@@ -1,0 +1,12 @@
+/*
+ * Aluno: Daniel Ribeiro da Costa
+ * Exercicio: 40
+ * Descricao: Funcao buscar(int arr[], int n, int chave) que retorna o indice ou -1
+ * Data: 10/11/2026
+ */
+
+Entrada utilizada:
+7
+
+Saida:
+Numero a buscar: Nao encontrado

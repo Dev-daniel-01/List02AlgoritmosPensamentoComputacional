@@ -1,0 +1,15 @@
+/*
+ * Aluno: Daniel Ribeiro da Costa
+ * Exercicio: 12
+ * Descricao: Le dois arrays de 5 elementos e gera um terceiro com a soma deles
+ * Data: 27/10/2026
+ */
+
+Entrada utilizada:
+1 2 3 4 5
+10 20 30 40 50
+
+Saida:
+Digite os 5 elementos do primeiro array:
+Digite os 5 elementos do segundo array:
+Array soma: 11 22 33 44 55 

@@ -1,0 +1,10 @@
+/*
+ * Aluno: Daniel Ribeiro da Costa
+ * Exercicio: 43
+ * Descricao: Usa o ponteiro p para alterar o valor de x para 20
+ * Data: 10/11/2026
+ */
+
+Saida:
+Antes:  x = 10
+Depois: x = 20

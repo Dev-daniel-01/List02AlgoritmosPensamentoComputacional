@@ -1,0 +1,12 @@
+/*
+ * Aluno: Daniel Ribeiro da Costa
+ * Exercicio: 33
+ * Descricao: Funcao que recebe N e retorna o fatorial de N usando for
+ * Data: 10/11/2026
+ */
+
+Entrada utilizada:
+5
+
+Saida:
+Digite N: 5! = 120

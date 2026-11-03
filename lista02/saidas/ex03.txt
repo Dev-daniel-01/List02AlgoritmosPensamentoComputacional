@@ -1,0 +1,12 @@
+/*
+ * Aluno: Daniel Ribeiro da Costa
+ * Exercicio: 03
+ * Descricao: Le um numero e verifica se e primo usando for e uma flag
+ * Data: 20/10/2026
+ */
+
+Entrada utilizada:
+17
+
+Saida:
+Digite um numero: 17 e primo

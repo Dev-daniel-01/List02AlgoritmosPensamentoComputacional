@@ -1,0 +1,13 @@
+/*
+ * Aluno: Daniel Ribeiro da Costa
+ * Exercicio: 29
+ * Descricao: Copia o conteudo de um arquivo de origem para um de destino
+ * Data: 03/11/2026
+ */
+
+Entrada utilizada:
+teste.txt
+copia.txt
+
+Saida:
+Arquivo de origem: Arquivo de destino: Arquivo copiado com sucesso

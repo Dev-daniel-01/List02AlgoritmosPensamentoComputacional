@@ -1,0 +1,9 @@
+/*
+ * Aluno: Daniel Ribeiro da Costa
+ * Exercicio: 28
+ * Descricao: Cria um arquivo com numeros inteiros, le e soma todos eles
+ * Data: 03/11/2026
+ */
+
+Saida:
+Soma dos numeros do arquivo: 100

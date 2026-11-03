@@ -1,0 +1,16 @@
+/*
+ * Aluno: Daniel Ribeiro da Costa
+ * Exercicio: 09
+ * Descricao: Desenha um triangulo retangulo de asteriscos com a base informada
+ * Data: 20/10/2026
+ */
+
+Entrada utilizada:
+5
+
+Saida:
+Base do triangulo: *
+**
+***
+****
+*****

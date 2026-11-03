@@ -1,0 +1,12 @@
+/*
+ * Aluno: Daniel Ribeiro da Costa
+ * Exercicio: 02
+ * Descricao: Le a idade de 10 pessoas e calcula a media usando for
+ * Data: 20/10/2026
+ */
+
+Entrada utilizada:
+18 20 22 25 30 35 40 19 21 50
+
+Saida:
+Idade da pessoa 1: Idade da pessoa 2: Idade da pessoa 3: Idade da pessoa 4: Idade da pessoa 5: Idade da pessoa 6: Idade da pessoa 7: Idade da pessoa 8: Idade da pessoa 9: Idade da pessoa 10: Media das idades: 28.00

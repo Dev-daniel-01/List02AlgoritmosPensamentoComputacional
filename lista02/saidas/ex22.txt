@@ -1,0 +1,9 @@
+/*
+ * Aluno: Daniel Ribeiro da Costa
+ * Exercicio: 22
+ * Descricao: Le o conteudo de teste.txt e exibe no console
+ * Data: 03/11/2026
+ */
+
+Saida:
+Primeira linha de um arquivo.

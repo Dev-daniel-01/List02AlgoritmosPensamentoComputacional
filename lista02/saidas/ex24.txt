@@ -1,0 +1,9 @@
+/*
+ * Aluno: Daniel Ribeiro da Costa
+ * Exercicio: 24
+ * Descricao: Le nomes.txt e conta quantos nomes tem mais de 5 caracteres
+ * Data: 03/11/2026
+ */
+
+Saida:
+Nomes com mais de 5 caracteres: 3

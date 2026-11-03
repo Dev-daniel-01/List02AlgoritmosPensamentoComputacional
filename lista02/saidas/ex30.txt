@@ -1,0 +1,39 @@
+/*
+ * Aluno: Daniel Ribeiro da Costa
+ * Exercicio: 30
+ * Descricao: Menu para inserir e exibir dados de um arquivo (do-while e funcoes)
+ * Data: 03/11/2026
+ */
+
+Entrada utilizada:
+1
+Primeiro registro
+1
+Segundo registro
+2
+3
+
+Saida:
+
+1) Inserir dados no arquivo
+2) Exibir todos os dados
+3) Sair
+Opcao: Digite o texto: Dado inserido!
+
+1) Inserir dados no arquivo
+2) Exibir todos os dados
+3) Sair
+Opcao: Digite o texto: Dado inserido!
+
+1) Inserir dados no arquivo
+2) Exibir todos os dados
+3) Sair
+Opcao: 
+--- DADOS ---
+Primeiro registro
+Segundo registro
+
+1) Inserir dados no arquivo
+2) Exibir todos os dados
+3) Sair
+Opcao: Saindo...

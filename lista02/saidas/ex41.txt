@@ -1,0 +1,12 @@
+/*
+ * Aluno: Daniel Ribeiro da Costa
+ * Exercicio: 41
+ * Descricao: O que e um ponteiro e a diferenca entre *p e &variavel
+ * Data: 10/11/2026
+ */
+
+Saida:
+Valor de x:           10
+Endereco de x (&x):   0061FF18
+Conteudo de p:        0061FF18
+Valor apontado (*p):  10

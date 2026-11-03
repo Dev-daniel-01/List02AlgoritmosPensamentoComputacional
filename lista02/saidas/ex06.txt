@@ -1,0 +1,14 @@
+/*
+ * Aluno: Daniel Ribeiro da Costa
+ * Exercicio: 06
+ * Descricao: Pede um numero positivo ate o usuario digitar um valido (while)
+ * Data: 20/10/2026
+ */
+
+Entrada utilizada:
+-5
+0
+7
+
+Saida:
+Digite um numero positivo: Numero invalido! Digite um numero positivo: Numero invalido! Digite um numero positivo: Numero valido: 7

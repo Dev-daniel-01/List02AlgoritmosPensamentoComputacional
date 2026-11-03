@@ -1,0 +1,12 @@
+/*
+ * Aluno: Daniel Ribeiro da Costa
+ * Exercicio: 37
+ * Descricao: Funcao dobrar(int *x) que dobra o valor da variavel passada
+ * Data: 10/11/2026
+ */
+
+Entrada utilizada:
+21
+
+Saida:
+Digite um numero: Valor dobrado: 42

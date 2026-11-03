@@ -1,0 +1,13 @@
+/*
+ * Aluno: Daniel Ribeiro da Costa
+ * Exercicio: 45
+ * Descricao: Funcao troca(int *a, int *b) que troca os valores de dois inteiros
+ * Data: 10/11/2026
+ */
+
+Entrada utilizada:
+3 9
+
+Saida:
+Digite dois numeros: Antes:  x = 3, y = 9
+Depois: x = 9, y = 3

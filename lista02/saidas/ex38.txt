@@ -1,0 +1,13 @@
+/*
+ * Aluno: Daniel Ribeiro da Costa
+ * Exercicio: 38
+ * Descricao: Usa as funcoes soma e dobrar de util.c / util.h
+ * Data: 10/11/2026
+ */
+
+Entrada utilizada:
+4 6
+
+Saida:
+Digite dois numeros: Soma: 10
+Soma dobrada: 20

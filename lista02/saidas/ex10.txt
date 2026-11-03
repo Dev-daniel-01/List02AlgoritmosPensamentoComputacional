@@ -1,0 +1,12 @@
+/*
+ * Aluno: Daniel Ribeiro da Costa
+ * Exercicio: 10
+ * Descricao: Imprime os N primeiros termos de Fibonacci usando while
+ * Data: 20/10/2026
+ */
+
+Entrada utilizada:
+10
+
+Saida:
+Quantos termos? 1 1 2 3 5 8 13 21 34 55 

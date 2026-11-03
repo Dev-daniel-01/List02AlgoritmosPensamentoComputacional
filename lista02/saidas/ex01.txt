@@ -1,0 +1,12 @@
+/*
+ * Aluno: Daniel Ribeiro da Costa
+ * Exercicio: 01
+ * Descricao: Le N e calcula a soma de 1 ate N usando for
+ * Data: 20/10/2026
+ */
+
+Entrada utilizada:
+10
+
+Saida:
+Digite um numero N: Soma de 1 ate 10 = 55

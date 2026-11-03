@@ -1,0 +1,13 @@
+/*
+ * Aluno: Daniel Ribeiro da Costa
+ * Exercicio: 49
+ * Descricao: Cria um array de tamanho N com malloc, preenche e libera a memoria
+ * Data: 10/11/2026
+ */
+
+Entrada utilizada:
+5
+1 2 3 4 5
+
+Saida:
+Tamanho N: Array: 1 4 9 16 25 

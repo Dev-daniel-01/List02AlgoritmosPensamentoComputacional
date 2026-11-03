@@ -1,0 +1,9 @@
+/*
+ * Aluno: Daniel Ribeiro da Costa
+ * Exercicio: 18
+ * Descricao: Copia o conteudo de um array para outro sem funcoes de biblioteca
+ * Data: 27/10/2026
+ */
+
+Saida:
+Destino: 10 20 30 40 50 

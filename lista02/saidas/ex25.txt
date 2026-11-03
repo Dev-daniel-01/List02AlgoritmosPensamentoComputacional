@@ -1,0 +1,16 @@
+/*
+ * Aluno: Daniel Ribeiro da Costa
+ * Exercicio: 25
+ * Descricao: Versao do exercicio 23 que anexa nomes ao final de nomes.txt
+ * Data: 03/11/2026
+ */
+
+Entrada utilizada:
+Pedro
+Mariana
+Luis
+Gabriela
+Rafael
+
+Saida:
+Nome 1: Nome 2: Nome 3: Nome 4: Nome 5: Nomes adicionados ao final de nomes.txt

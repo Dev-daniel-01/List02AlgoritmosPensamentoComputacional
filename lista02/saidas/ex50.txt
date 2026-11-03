@@ -1,0 +1,17 @@
+/*
+ * Aluno: Daniel Ribeiro da Costa
+ * Exercicio: 50
+ * Descricao: Array de ponteiros para funcoes de operacoes matematicas
+ * Data: 10/11/2026
+ */
+
+Entrada utilizada:
+2
+6 7
+
+Saida:
+0 - Soma
+1 - Subtracao
+2 - Multiplicacao
+3 - Divisao
+Escolha a operacao: Digite dois numeros: Multiplicacao: 42.00

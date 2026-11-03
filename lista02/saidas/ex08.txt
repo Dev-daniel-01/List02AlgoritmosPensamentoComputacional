@@ -1,0 +1,15 @@
+/*
+ * Aluno: Daniel Ribeiro da Costa
+ * Exercicio: 08
+ * Descricao: Desenha um retangulo de asteriscos com altura e largura informadas
+ * Data: 20/10/2026
+ */
+
+Entrada utilizada:
+3
+5
+
+Saida:
+Altura: Largura: *****
+*****
+*****

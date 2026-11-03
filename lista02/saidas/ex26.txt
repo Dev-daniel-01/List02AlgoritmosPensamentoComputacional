@@ -1,0 +1,14 @@
+/*
+ * Aluno: Daniel Ribeiro da Costa
+ * Exercicio: 26
+ * Descricao: Le nome, idade e salario e grava em funcionario.csv
+ * Data: 03/11/2026
+ */
+
+Entrada utilizada:
+Daniel Ribeiro
+25
+3500.50
+
+Saida:
+Nome: Idade: Salario: Funcionario gravado em funcionario.csv

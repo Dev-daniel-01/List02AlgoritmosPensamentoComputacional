@@ -1,0 +1,9 @@
+/*
+ * Aluno: Daniel Ribeiro da Costa
+ * Exercicio: 42
+ * Descricao: Declara x = 10, um ponteiro p para x e imprime x pelo ponteiro
+ * Data: 10/11/2026
+ */
+
+Saida:
+Valor de x usando o ponteiro: 10

@@ -1,0 +1,9 @@
+/*
+ * Aluno: Daniel Ribeiro da Costa
+ * Exercicio: 47
+ * Descricao: Soma os elementos de um array de 5 inteiros com aritmetica de ponteiros
+ * Data: 10/11/2026
+ */
+
+Saida:
+Soma dos elementos: 66

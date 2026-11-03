@@ -1,0 +1,78 @@
+/*
+ * Aluno: Daniel Ribeiro da Costa
+ * Exercicio: 04
+ * Descricao: Calculadora com menu que repete ate o usuario escolher Sair (do-while)
+ * Data: 20/10/2026
+ */
+
+Entrada utilizada:
+1
+10 5
+2
+10 5
+3
+10 5
+4
+10 5
+4
+10 0
+9
+0
+
+Saida:
+
+--- CALCULADORA ---
+1 - Somar
+2 - Subtrair
+3 - Multiplicar
+4 - Dividir
+0 - Sair
+Opcao: Digite dois numeros: Resultado: 15.00
+
+--- CALCULADORA ---
+1 - Somar
+2 - Subtrair
+3 - Multiplicar
+4 - Dividir
+0 - Sair
+Opcao: Digite dois numeros: Resultado: 5.00
+
+--- CALCULADORA ---
+1 - Somar
+2 - Subtrair
+3 - Multiplicar
+4 - Dividir
+0 - Sair
+Opcao: Digite dois numeros: Resultado: 50.00
+
+--- CALCULADORA ---
+1 - Somar
+2 - Subtrair
+3 - Multiplicar
+4 - Dividir
+0 - Sair
+Opcao: Digite dois numeros: Resultado: 2.00
+
+--- CALCULADORA ---
+1 - Somar
+2 - Subtrair
+3 - Multiplicar
+4 - Dividir
+0 - Sair
+Opcao: Digite dois numeros: Erro: divisao por zero
+
+--- CALCULADORA ---
+1 - Somar
+2 - Subtrair
+3 - Multiplicar
+4 - Dividir
+0 - Sair
+Opcao: Opcao invalida
+
+--- CALCULADORA ---
+1 - Somar
+2 - Subtrair
+3 - Multiplicar
+4 - Dividir
+0 - Sair
+Opcao: Saindo...

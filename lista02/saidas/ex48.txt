@@ -1,0 +1,9 @@
+/*
+ * Aluno: Daniel Ribeiro da Costa
+ * Exercicio: 48
+ * Descricao: Ponteiro para ponteiro: imprime x usando q, que aponta para p
+ * Data: 10/11/2026
+ */
+
+Saida:
+Valor de x usando q: 42

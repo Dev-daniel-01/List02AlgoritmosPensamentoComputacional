@@ -1,0 +1,9 @@
+/*
+ * Aluno: Daniel Ribeiro da Costa
+ * Exercicio: 32
+ * Descricao: Funcao exibeMensagem() que imprime "Bem-vindo ao sistema!"
+ * Data: 10/11/2026
+ */
+
+Saida:
+Bem-vindo ao sistema!

@@ -1,0 +1,15 @@
+/*
+ * Aluno: Daniel Ribeiro da Costa
+ * Exercicio: 36
+ * Descricao: Struct Aluno e funcao mediaTurma que calcula a media da turma
+ * Data: 10/11/2026
+ */
+
+Entrada utilizada:
+3
+Ana 8.5
+Bruno 7.0
+Carla 9.5
+
+Saida:
+Quantidade de alunos: Nome do aluno 1: Nota de Ana: Nome do aluno 2: Nota de Bruno: Nome do aluno 3: Nota de Carla: Media da turma: 8.33

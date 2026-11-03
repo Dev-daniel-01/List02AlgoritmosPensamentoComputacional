@@ -1,0 +1,12 @@
+/*
+ * Aluno: Daniel Ribeiro da Costa
+ * Exercicio: 31
+ * Descricao: Funcao soma(int a, int b) que retorna a soma de dois numeros
+ * Data: 10/11/2026
+ */
+
+Entrada utilizada:
+7 8
+
+Saida:
+Digite dois numeros: Soma: 15

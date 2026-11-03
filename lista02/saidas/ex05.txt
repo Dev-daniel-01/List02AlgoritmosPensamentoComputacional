@@ -1,0 +1,10 @@
+/*
+ * Aluno: Daniel Ribeiro da Costa
+ * Exercicio: 05
+ * Descricao: Imprime os numeros de 10 a 1 usando while e depois usando for
+ * Data: 20/10/2026
+ */
+
+Saida:
+Com while: 10 9 8 7 6 5 4 3 2 1 
+Com for:   10 9 8 7 6 5 4 3 2 1 

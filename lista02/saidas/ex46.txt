@@ -1,0 +1,10 @@
+/*
+ * Aluno: Daniel Ribeiro da Costa
+ * Exercicio: 46
+ * Descricao: Struct Pessoa e funcao inicializar que modifica a struct por ponteiro
+ * Data: 10/11/2026
+ */
+
+Saida:
+Nome: Daniel
+Idade: 20

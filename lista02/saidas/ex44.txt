@@ -1,0 +1,9 @@
+/*
+ * Aluno: Daniel Ribeiro da Costa
+ * Exercicio: 44
+ * Descricao: Percorre um array de inteiros com um ponteiro e imprime os elementos
+ * Data: 10/11/2026
+ */
+
+Saida:
+3 6 9 12 15 

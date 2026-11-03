@@ -1,0 +1,9 @@
+/*
+ * Aluno: Daniel Ribeiro da Costa
+ * Exercicio: 21
+ * Descricao: Escreve "Primeira linha de um arquivo." no arquivo teste.txt
+ * Data: 03/11/2026
+ */
+
+Saida:
+Arquivo teste.txt gravado com sucesso

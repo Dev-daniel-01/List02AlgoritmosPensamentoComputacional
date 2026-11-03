@@ -1,0 +1,9 @@
+/*
+ * Aluno: Daniel Ribeiro da Costa
+ * Exercicio: 39
+ * Descricao: Funcao ordenar(int arr[], int n) que ordena com Bubble Sort
+ * Data: 10/11/2026
+ */
+
+Saida:
+Array ordenado: 3 7 11 19 25 42 

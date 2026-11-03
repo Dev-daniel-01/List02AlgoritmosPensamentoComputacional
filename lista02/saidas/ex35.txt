@@ -1,0 +1,12 @@
+/*
+ * Aluno: Daniel Ribeiro da Costa
+ * Exercicio: 35
+ * Descricao: Funcao validarCPF(char cpf[]) que valida apenas o formato do CPF
+ * Data: 10/11/2026
+ */
+
+Entrada utilizada:
+123.456.789-09
+
+Saida:
+Digite o CPF: Formato de CPF valido

@@ -1,0 +1,11 @@
+/*
+ * Aluno: Daniel Ribeiro da Costa
+ * Exercicio: 27
+ * Descricao: Le funcionario.csv, processa cada linha e exibe formatado
+ * Data: 03/11/2026
+ */
+
+Saida:
+Nome                 Idade     Salario
+----------------------------------------
+Daniel Ribeiro       25     R$ 3500.50

@@ -1,0 +1,18 @@
+/*
+ * Aluno: Daniel Ribeiro da Costa
+ * Exercicio: 07
+ * Descricao: Imprime as potencias de 2 menores que 1000 usando for
+ * Data: 20/10/2026
+ */
+
+Saida:
+2^0 = 1
+2^1 = 2
+2^2 = 4
+2^3 = 8
+2^4 = 16
+2^5 = 32
+2^6 = 64
+2^7 = 128
+2^8 = 256
+2^9 = 512
